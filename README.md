@@ -5,3 +5,4 @@ My repo for my crypto quant trading / research, data scraping, and anything rela
 None of the scraped datasets or the nature of their contents will be shared here however their formatting / fit into the pipeline will be.
 If this is somehow seen by someone before I am proud enough of it to put it on my CV and you are interested in collaborating send me a dm on discord @ mynamesleo or leo@enterprisegmail.com
 
+P.S. I am not robbing any hoods, I am not on any type of smoke, do not come and try to rob my hood. Thanks
