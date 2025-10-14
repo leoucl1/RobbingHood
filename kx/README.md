@@ -2,7 +2,7 @@
 
 in the kx folder store your q files as such:
 
-xROBBOINGHOOD/
+xROBBOINGHOOD/kx/
 
 
     └── q/  
