@@ -25,6 +25,11 @@ data/
 datasets/
 !datasets/.gitkeep
 
+# --- KDB+/Q FILES ---
+/kx/*
+!/kx/README.md
+
+
 # --- RESULTS / REPORTS ---
 reports/
 logs/
