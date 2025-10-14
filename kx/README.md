@@ -4,7 +4,6 @@ in the kx folder store your q files as such:
 
 xROBBOINGHOOD/
 
-└── kx/
 
     └── q/  
 
@@ -13,5 +12,5 @@ xROBBOINGHOOD/
            ├── q         # main binary
 
         ├── kc.lic       # license
-        
+
         └── q.k          # startup file
