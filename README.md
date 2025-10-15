@@ -6,3 +6,5 @@ None of the scraped datasets or the nature of their contents will be shared here
 If this is somehow seen by someone before I am proud enough of it to put it on my CV and you are interested in collaborating send me a dm on discord @ mynamesleo or leo@enterprisegmail.com
 
 P.S. I am not robbing any hoods, I am not on any type of smoke, do not come and try to rob my hood. Thanks
+
+P.P.S. This will not be a vibecoded project I actually want to learn from this shit - any AI used will solely be for learning purposes, the rest is straight from the dome. 
