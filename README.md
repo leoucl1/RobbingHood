@@ -8,3 +8,7 @@ If this is somehow seen by someone before I am proud enough of it to put it on m
 P.S. I am not robbing any hoods, I am not on any type of smoke, do not come and try to rob my hood. Thanks
 
 P.P.S. This will not be a vibecoded project I actually want to learn from this shit - any AI used will solely be for learning purposes, the rest is straight from the dome. 
+
+
+
+OK i somehow frauded a trader role in the crypto space can abandon this now lol
